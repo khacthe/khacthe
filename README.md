@@ -43,7 +43,7 @@ I am KhacThe, I am a Web developer.
 
 
 ```
-[sudo] Password for trykatchup:
+[sudo] Password for khacthe:
 
 CATching bugs in code...
                               
