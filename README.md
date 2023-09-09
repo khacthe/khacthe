@@ -15,7 +15,7 @@ I am KhacThe, I am a Web developer.
   <img alt="Css" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-Css-6d94ed?style=flat-square&logo=css3&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-Js-d6ba33?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E" />
-  <img alt="javascript" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt="javascript" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
 </p>
 
 ### 💻 Libraries & Framework
@@ -31,8 +31,8 @@ I am KhacThe, I am a Web developer.
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-  <img alt="npm" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green" />
+  <img alt="npm" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" />
 ### 💻 DevOps
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Aws-d6ba33?style=flat-square&logo=amazon-aws&logoColor=white&color=232F3E" />
